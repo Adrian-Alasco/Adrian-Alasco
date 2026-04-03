@@ -1,38 +1,58 @@
-<!-- Header -->
+<!-- Neon Divider (thicker + glowing feel) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:00C2FF&height=220&section=header&text=Adrian%20Alasco&fontSize=42&fontColor=00C2FF&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00C2FF&height=4" width="100%"/>
 </p>
 
-<!-- Profile Image -->
+
+<table width="100%">
+<tr>
+
+<td width="35%" align="center">
+
+<img src="Profile1.png" width="200" />
+
+</td>
+
+<td width="65%">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:00C2FF&height=260&section=header&text=Adrian%20Alasco&fontSize=45&fontColor=00C2FF&animation=fadeIn&desc=Creative%20Media%20Specialist&descAlignY=70&descSize=20" />
+
+</td>
+
+</tr>
+</table>
+
+<!-- Glow Divider -->
 <p align="center">
-  <img src="Profile1.png" width="180" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00C2FF&height=2" width="100%"/>
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=26&center=true&vCenter=true&width=750&lines=Technical+Support+Specialist;Virtual+Assistant+%7C+Creative+Professional;Web+Developer+(HTML+CSS+JS);Design+%2B+Tech+%2B+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=26&center=true&vCenter=true&width=500&duration=4000&pause=1000&lines=Creative+Media+Specialist" />
 </p>
 
-<h3 align="center">Technical Support Specialist | Business Professional Assistant</h3>
-
----
+<!-- Glow Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00C2FF&height=2" width="100%"/>
+</p>
 
 ## About Me
 
-I help businesses **streamline operations, solve technical issues, and build a strong digital presence**.
+I help brands and businesses **create, manage, and optimize digital content and operations**.
 
-- Technical Support & Troubleshooting  
-- Virtual Assistant (Admin, CRM, Systems)  
-- Web Development (HTML, CSS, JavaScript)  
-- Graphic Design & Video Editing  
-- Focused on **efficiency, automation, and results**
+➤ Content Creation (Graphics & Video)
+➤ Social Media Management  
+➤ Technical Support & Troubleshooting  
+➤ Virtual Assistance & Operations  
+➤ Web Design (HTML, CSS, JavaScript)
 
 ---
 
-## Core Value
+## Core Strength
 
-> I combine **TECH + SYSTEMS + CREATIVE EXECUTION**  
-> ➥ Turning chaos into organized, scalable workflows
+> I blend **Creativity + Tech + Systems**
+> ➤ Turning ideas into structured, high-performing digital experiences
 
 ---
 
@@ -40,6 +60,27 @@ I help businesses **streamline operations, solve technical issues, and build a s
 
 ### Portfolio
 ➤ https://adrianalasco.netlify.app/
+
+---
+
+## What I Can Do For You
+
+✦ Create engaging social media content  
+✦ Design graphics and edit videos  
+✦ Manage and grow social media accounts  
+✦ Provide technical and customer support  
+✦ Organize systems and workflows  
+
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://adrianalasco.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00C2FF?style=for-the-badge&logo=vercel&logoColor=black"/></a>
+  <a href="https://www.linkedin.com/in/adrian-alasco/"><img src="https://img.shields.io/badge/LinkedIn-00C2FF?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
+  <a href="mailto:adriand.alasco@outlook.com"><img src="https://img.shields.io/badge/Email-00C2FF?style=for-the-badge&logo=gmail&logoColor=black"/></a>
+  <a href="https://adrian-alasco.github.io/linkhub"><img src="https://img.shields.io/badge/LinkHub-00C2FF?style=for-the-badge"/></a>
+</p>
 
 ---
 
@@ -61,11 +102,11 @@ I help businesses **streamline operations, solve technical issues, and build a s
 
 ## Services
 
-✔️ Technical Support  
-✔️ Virtual Assistance  
-✔️ Social Media Management  
-✔️ Graphic Design & Video Editing  
-✔️ Web Development  
+✦ Technical Support  
+✦ Virtual Assistance  
+✦ Social Media Management  
+✦ Graphic Design & Video Editing  
+✦ Web Development  
 
 ---
 
