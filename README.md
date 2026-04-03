@@ -5,7 +5,7 @@
 
 <!-- Profile Image -->
 <p align="center">
-  <img src="Photo.png" width="180" />
+  <img src="Profile1.png" width="180" />
 </p>
 
 <!-- Typing Animation -->
